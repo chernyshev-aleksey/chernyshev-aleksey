@@ -8,10 +8,6 @@
 
 Я начинающий Python-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с хобби -  автоматизации рутинных вещей на работе и личной жизни.
 
-- :telescope: Изучаю веб-разработку на курсах Яндекс Практикум!
-
-- :seedling: Обязательно вернусь в Школу 21 и попаду на основное обучение.
-
 - :zap: Хочу освоить новую проффесию и найти работу.
 
 - :mailbox: Как связаться со мной: <a href="https://t.me/alex16091">![Telegram Badge](https://img.shields.io/badge/-chernyshevalexey-blue?style=flat&logo=Telegram&logoColor=white)</a>
