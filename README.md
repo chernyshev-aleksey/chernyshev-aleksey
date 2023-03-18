@@ -6,7 +6,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий Python-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с хобби, как я пытался автоматизировать рутинные вещи на работе и личной жизни.
+Я начинающий Python-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с хобби -  автоматизации рутинных вещей на работе и личной жизни.
 
 - :telescope: Изучаю веб-разработку на курсах Яндекс Практикум!
 
