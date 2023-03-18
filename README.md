@@ -81,7 +81,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/chernyshev-aleksey/badges/large)
+<a href="https://www.codewars.com/users/chernyshev-aleksey">![codewars](https://www.codewars.com/users/chernyshev-aleksey/badges/large)</a> 
 
 ### ⚙️ GitHub статистика:
 
