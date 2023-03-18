@@ -1,2 +1,2 @@
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=chernyshev-aleksey&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10" alt="chernyshev-aleksey" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chernyshev-aleksey&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&layout=compact" alt="Latand" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=chernyshev-aleksey&show_icons=true&bg_color=DEG,#222327,#353e46,#4a5c5f" alt="chernyshev-aleksey" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chernyshev-aleksey&bg_color=DEG,#667c8a,#5496bd,#9ba0a4&layout=compact" alt="Latand" align = "center"/></p>
