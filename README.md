@@ -24,9 +24,12 @@
 -->
 ---
 
-### 💻 Codewars:
+### 💻 Решение задач:
 
-<a href="https://www.codewars.com/users/chernyshev-aleksey">![codewars](https://www.codewars.com/users/chernyshev-aleksey/badges/large)</a> 
+<a href="https://www.codewars.com/users/chernyshev-aleksey">Codewars</a> 
+<a href="https://leetcode.com/chernyshev-aleksey">Leetcode</a> 
+
+---
 
 ### ⚙️ GitHub статистика:
 
