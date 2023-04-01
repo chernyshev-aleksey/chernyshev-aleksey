@@ -26,8 +26,8 @@
 
 ### 💻 Решение задач:
 
-- <a href="https://www.codewars.com/users/chernyshev-aleksey">Codewars</a> 
-- <a href="https://leetcode.com/chernyshev-aleksey">Leetcode</a> 
+- <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width="30px"> <a href="https://www.codewars.com/users/chernyshev-aleksey">Codewars</a> 
+- <img src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" width="30px"> <a href="https://leetcode.com/chernyshev-aleksey">Leetcode</a> 
 
 ---
 
